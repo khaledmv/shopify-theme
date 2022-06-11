@@ -592,7 +592,7 @@ video {
 }
 .annoncement {
   background-color: hsl(197deg, 100%, 93%);
-  padding: 2rem 0;
+  padding: 2rem 0.5rem;
 }
 .annoncement p {
   font-size: 1.6rem;
