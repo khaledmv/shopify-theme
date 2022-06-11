@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.annoncement{
+  background-color: hsl(197, 100%, 93%);
+  padding: 2rem 0;
+
+  p{
+    font-size: 1.6rem;
+  }
+}
+
